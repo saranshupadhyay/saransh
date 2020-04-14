@@ -1,0 +1,76 @@
+h1{
+	font-family: Girassol;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 10px;
+	font-size: 50px;
+}
+hr{
+	border: 2px double black;
+	width: 100%;
+}
+p{
+	text-align: center;
+	font-family: Pacifico;
+  font-size: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top:1%;
+}
+img{
+
+	 max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+ 
+}
+.special_para{
+	font-size: 20px;
+}
+#this_one_is_special{
+	color: black; 
+}
+.specialPara{
+	color: white; 
+	font-family: Girassol;
+}
+.para{
+	color: white; 
+	font-family: Girassol;
+}
+
+header{
+	background-color: black;
+	padding: 2px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+
+}
+li a{
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	padding: 2px;
+}
+li a:hover{
+	color: blue;
+	text-decoration: none;
+}
+footer{
+	background-color: black;
+	color: white;
+    text-align: center;
+	
+}
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
